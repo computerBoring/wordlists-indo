@@ -6,4 +6,5 @@
 4. 10.140
 5. 10.142
 6. 10.143
-7. code terakhir di tambahkan 10.144
+7. 10.144
+8. code terakhir di tambahkan 10.145
